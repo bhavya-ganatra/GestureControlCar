@@ -9,6 +9,6 @@ I have also included functionality to record and save your webcam and screen rec
 
 ## Installing:
 To run code o your machine, you should have installed pyhton 3, I have tested this code on
-opencv 4.2.0
-PIL 7.0.0
-pyautogui 0.9.50
+1. opencv 4.2.0
+2. PIL 7.0.0
+3. pyautogui 0.9.50
